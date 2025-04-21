@@ -29,11 +29,11 @@ x.sort(reverse=False)
 print(x)
 #Q7
 now=[]
-now.insert(0,34)
-now.insert(1,"baseer")
-now.insert(3,7)
-now.insert(2,5.6)
-print(now)
+now=[]
+pos=int(input("enter location where to add element"))
+val=int(input("enter value"))
+for i in now:
+    print(i)
 #Q8
 print(max(we))
 print(min(we))
